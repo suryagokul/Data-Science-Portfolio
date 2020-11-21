@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Landing Page</title>
+
+{% endblock %}
+
+{% block body %}
+<table>
+<div class="content">
+    <h1 style="text-align:center">Search</h1>
+
+    <div class="form">
+        <form action="/" method="POST">
+            GRE SCORE<input type="text" name="GRE Score" id="GRE Score"><br><br>
+
+            TOEFL Score<input type="text" name="TOEFL Score" id="TOEFL Score"><br><br>
+
+            University Rating<input type="text" name="University Rating" id="University Rating"><br><br>
+
+            SOP<input type="text" name="SOP" id="SOP"><br><br>
+
+            LOR<input type="text" name="LOR" id="LOR"><br><br>
+
+            CGPA<input type="text" name="CGPA" id="CGPA"><br><br>
+
+            Research<input type="text" name="Research" id="Research"><br><br>
+
+            <input type="submit" value="Search">
+
+        </form>
+    </div>
+</div>
+
+</table>
+
+{% endblock %}
