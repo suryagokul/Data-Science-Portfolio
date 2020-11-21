@@ -1,2 +1,0 @@
-print(float(5))
-
