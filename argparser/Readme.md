@@ -5,21 +5,25 @@ Types Of Arguments :
     1) Positional Arguments
     2) Optional Arguments
 
-**Positional Arguments Syntax : **
+**Positional Arguments Syntax :**
 
     python filename.py arg1 arg2 arg3       
     
         we can give any number of arguments.
         
   
-  Ex :  python main.py 10 20 add
+  Ex :  
+  
+        python main.py 10 20 add
         
 
-**Optional Arguments Syntax : **
+**Optional Arguments Syntax :**
 
     python filename.py --flag1 arg1 --flag2 arg2
     
         we can specify in any order with --flag and then argument.
         
    
-   Ex  : python main.py --number1 10 --number2 20 --operation add
+   Ex  : 
+        
+         python main.py --number1 10 --number2 20 --operation add
