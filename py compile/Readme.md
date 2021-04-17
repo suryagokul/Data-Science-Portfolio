@@ -2,7 +2,7 @@ when we import a file from another python script, then python interpreter automa
 
 `But how do we convert .py file to compiled file manually?`
 
-for that open compile_manually.py script and replace filename as your wish and then run script 
+for that open compile_manually.py script which is given here and in that replace python filename as your wish and then run script 
 
     python compile_manually.py
 
