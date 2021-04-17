@@ -21,3 +21,9 @@ After getting compiled python file (.pyc) `how to run it?`
     It will runs the code.
 
 ![how cpython and jython works](https://uploads.toptal.io/blog/image/127/toptal-blog-C.png)
+
+`References to know more about python implementations and compilation`
+
+        https://www.toptal.com/python/why-are-there-so-many-pythons
+
+        https://stackoverflow.com/questions/17130975/python-vs-cpython
